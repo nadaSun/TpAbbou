@@ -19,8 +19,7 @@ public class Article {
 	private String reference;
 	private String designation;
 	private double price;
-	private String code;
-
+	
 	public Article(String reference, String designation, double price) {
 		super();
 		this.reference = reference;
